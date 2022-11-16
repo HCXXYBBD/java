@@ -1,0 +1,9 @@
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:14:49:716
+
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:15:59:350
+
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:16:04:097
+
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:16:09:968
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:16:16:770
+l.getCode()	l.getName()	l.getM_code()	l.getM_num()	l.getTotal()	19:16:19:452
